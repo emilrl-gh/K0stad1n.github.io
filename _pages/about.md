@@ -3,6 +3,13 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+## whoami ? 
+16yr old Franco american 🇺🇸🇫🇷 student living in Paris. Interested in Engineering and Computer Science since the age of 8 years old. I've worked in C, Objective-C, Javascript,Swift. I've used SwiftUI, React-Native. I am familiar with Unity, iOS jailbreaking and iOS security.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+## My Tech/Non Tech:
+- 💻 Macbook Air (M1) 2020 with 16Gb of RAM and 256Gb of Storage
+- 📱 iPhone XR Space Grey 64Gb
+- ⏱ Timex "The Waterbury" Chronograph with a black NATO strap*
+- 🚲 Vintage Racing Gitane
+
+*I was using the ⌚️Apple Watch Series 4 for a long time but realized the uselessness and ugliness of the watch so went back to good ol' analog
